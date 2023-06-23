@@ -1,5 +1,6 @@
 import simpy
-#MASQUE implementation in simpy 
+# MASQUE implementation in simpy 
+# June 23 2023
 # Define the MASQUE client process
 def masque_client(env, server):
     # Connect to the MASQUE server
